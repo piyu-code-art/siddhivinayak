@@ -1,1 +1,1 @@
-# siddhi-vinayak-website
+# siddhi-vinayak
